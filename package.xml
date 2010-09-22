@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <package xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" packagerversion="1.4.1" version="2.0" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0 http://pear.php.net/dtd/tasks-1.0.xsd http://pear.php.net/dtd/package-2.0 http://pear.php.net/dtd/package-2.0.xsd">
-  <name>sfCkEditorPlugin</name>
+  <name>sfCkPlugin</name>
   <channel>plugins.symfony-project.org</channel>
   <summary>Unobtrousive integration between symfony and CKEditor</summary>
   <description>This plugins offers an unobtrousive integration between the CK WYSIWYG editor and symfony.</description>
@@ -32,7 +32,7 @@
 
     <dir name="web">
       <dir name="js">
-        <file role="data" name="sfCkEditor.js" />
+        <file role="data" name="sfCkPlugin.js" />
       </dir>
     </dir>
   </contents>
