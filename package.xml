@@ -10,7 +10,7 @@
     <email>alessandro.nadalin@gmail.com</email>
     <active>yes</active>
   </lead>
-  <date>2010-09-022</date>
+  <date>2010-09-22</date>
   <version>
     <release>1.0.0</release>
     <api>1.0.0</api>
@@ -29,12 +29,12 @@
     <file role="data" name="README.md" />
     <file role="data" name="LICENSE" />
     <file role="data" name="VERSION" />
-
     <dir name="web">
       <dir name="js">
         <file role="data" name="sfCkPlugin.js" />
       </dir>
     </dir>
+  </dir>
   </contents>
   <dependencies>
     <required>
